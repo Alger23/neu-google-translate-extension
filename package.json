@@ -1,0 +1,30 @@
+{
+  "name": "neu-google-translate-extension",
+  "version": "1.0.0",
+  "description": "Neutralinojs extension: Google Translate API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alger23/neu-google-translate-extension.git"
+  },
+  "keywords": [
+    "neutralinojs",
+    "extension"
+  ],
+  "author": "Alger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alger23/neu-google-translate-extension/issues"
+  },
+  "homepage": "https://github.com/Alger23/neu-google-translate-extension#readme",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^8.0.0",
+    "chalk": "^5.0.1",
+    "minimist": "^1.2.6",
+    "uuid": "^8.3.2",
+    "websocket": "^1.0.34"
+  }
+}
